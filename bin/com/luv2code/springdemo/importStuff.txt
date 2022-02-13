@@ -1,3 +1,0 @@
-fortune.one=Today will be a good day.
-fortune.two=Today gonna suck bro.
-fortune.three=Unsure. Please try again.
